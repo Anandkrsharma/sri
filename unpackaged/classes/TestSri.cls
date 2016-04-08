@@ -1,0 +1,1 @@
+public class TestSri{String a='';String b='';}
