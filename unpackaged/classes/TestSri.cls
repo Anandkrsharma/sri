@@ -1,1 +1,1 @@
-public class TestSri{String a='';String b='';}
+public class TestSri{String a='srikanth';String b='';}
